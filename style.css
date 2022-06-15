@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Sriracha&display=swap');
 
 body {
-    background-color: white;
+    background-image:linear-gradient(to right, white, rgb(131, 131, 131), black);
     margin: 0px;
     font-family: 'Sriracha', 'cursive';
     
