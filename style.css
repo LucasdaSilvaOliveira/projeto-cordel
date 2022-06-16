@@ -38,7 +38,7 @@ header h1 {
     padding-bottom: 2vh;
 }
 #texto1 {
-    font-size: 50px;
+    font-size: 5vw;
     line-height: 100px;
     padding-top: 10vh;
     padding-bottom: 10vh;
@@ -56,7 +56,7 @@ div {
     background-color: black;
     position: absolute;
     color: white;
-    font-size: 50px;
+    font-size: 5vw;
     line-height: 100px;
     padding-top: 10vh;
     padding-bottom: 10vh;
@@ -67,7 +67,7 @@ div {
     border-radius: 10px;
     }
 #texto3 {
-    font-size: 50px;
+    font-size: 5vw;
     line-height: 100px;
     padding-top: 10vh;
     padding-bottom: 10vh;
@@ -85,10 +85,8 @@ div {
     background-color: rgba(0, 0, 0, 0.507);
     position: absolute;
     color: white;
-    font-size: 50px;
+    font-size: 5vw;
     line-height: 100px;
-    padding-top: 10vh;
-    padding-bottom: 10vh;
     padding-left: 30px;
     padding-right: 20px;
     margin-bottom: 50px;
@@ -96,7 +94,7 @@ div {
     border-radius: 10px;
 }
 #texto5 {
-    font-size: 50px;
+    font-size: 5vw;
     line-height: 100px;
     padding-left: 30px;
     margin-bottom: 50px;
