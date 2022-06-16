@@ -53,7 +53,7 @@ div {
     background-attachment: fixed;
 }
 #texto2 {
-    background-color: black;
+    background-color: rgba(0, 0, 0, 0.658);
     position: absolute;
     color: white;
     font-size: 5vw;
@@ -106,6 +106,7 @@ footer {
     font-size: 1.2em;
     text-align: center;
     height: 20px;
+    padding-bottom: 5px;
     }
 footer a {
     text-decoration: none;
