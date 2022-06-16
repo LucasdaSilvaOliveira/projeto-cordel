@@ -15,8 +15,9 @@ header {
     text-align: center;
     font-size: 60px;
     margin: 0px;
-    padding: 10px;
     font-family: Arial, Helvetica, sans-serif;
+    padding-top: 10vh;
+    padding-bottom: 10vh;
 }
 header a {
     text-decoration: none;
@@ -25,18 +26,22 @@ header a {
 }
 header p {
     font-size: 20px;
-    padding: 1px;
+    
 }
 header a:hover {
     text-decoration: underline;
 }
 header h1 {
-  
+    font-size: 80px;
     margin: 0px;
+    padding-top: 2vh;
+    padding-bottom: 2vh;
 }
 #texto1 {
     font-size: 50px;
     line-height: 100px;
+    padding-top: 10vh;
+    padding-bottom: 10vh;
     padding-left: 30px;
     margin-bottom: 50px;
 }
@@ -53,6 +58,8 @@ div {
     color: white;
     font-size: 50px;
     line-height: 100px;
+    padding-top: 10vh;
+    padding-bottom: 10vh;
     padding-left: 30px;
     padding-right: 20px;
     margin-bottom: 50px;
@@ -62,6 +69,8 @@ div {
 #texto3 {
     font-size: 50px;
     line-height: 100px;
+    padding-top: 10vh;
+    padding-bottom: 10vh;
     padding-left: 30px;
     margin-bottom: 50px;
 }
@@ -78,6 +87,8 @@ div {
     color: white;
     font-size: 50px;
     line-height: 100px;
+    padding-top: 10vh;
+    padding-bottom: 10vh;
     padding-left: 30px;
     padding-right: 20px;
     margin-bottom: 50px;
